@@ -4,7 +4,7 @@
 
 - copy .env.example to .env file
 
-###paypal
+### paypal
 
 - Create new account : https://developer.paypal.com/
 - Create 2 sandbox accounts (Personal , Business)
